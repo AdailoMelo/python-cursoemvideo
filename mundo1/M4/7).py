@@ -1,0 +1,6 @@
+nome = input('Digite seu nome completo: ')
+print(nome.upper())
+print(nome.lower())
+print(len(nome.replace(" ", "")))
+separa = nome.split()
+print(f'Seu primeiro nome é {separa[0]}, e ele tem {len(separa[0])} letras')

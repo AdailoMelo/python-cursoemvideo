@@ -1,0 +1,1 @@
+#pygame só roda no python 3.6 ou inferior, vou achar outro jeito de fazer depois
